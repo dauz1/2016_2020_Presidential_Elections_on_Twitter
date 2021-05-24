@@ -1,3 +1,3 @@
-# A Computational Comparison of the 2016 and 2020 United States Presidential Elections on Twitter2016_2020_Presidential_Elections_on_Twitter
+# A Computational Comparison of the 2016 and 2020 United States Presidential Elections on Twitter
 
 This study presents our findings of a computational analysis of tweets concerning the 2016 and 2020 United States Presidential Elections. We collected over 743,000 tweets using the most frequent hashtags of each election cycle for the Democratic and Republican party candidates as well as a neutral election hashtag. We extracted Twitter data over the span of four weeks before and after each election day to measure changes in the sentiment of collected tweets of each hashtag and applied Latent Dirichlet Allocation (LDA) and Latent Semantic Analysis (LSA) to discern changes in topic for these hashtags as well.
